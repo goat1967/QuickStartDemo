@@ -11,9 +11,9 @@ public class Main {
 
     }
     protected String getName(){
-        return "Frank";
+        return "Crystal";
     }
     private void printName(){
-        System.out.println("Frank");
+        System.out.println("Crystal");
     }
 }
