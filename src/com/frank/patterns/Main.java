@@ -10,7 +10,10 @@ public class Main {
 
 
     }
-    protected int getAge(String[] str){
-        return 57;
+    protected String getName(){
+        return "Frank";
+    }
+    private void printName(){
+        System.out.println("Frank");
     }
 }
